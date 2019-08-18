@@ -1,0 +1,14 @@
+1.IOT
+    The Internet of things (IoT) is the extension of Internet connectivity into physical devices 
+    and everyday objects. Embedded with electronics, Internet connectivity, and other forms of 
+    hardware (such as sensors), these devices can communicate and interact with others over the 
+    Internet, and they can be remotely monitored and controlled.
+2.Abstration
+    the process of removing physical, spatial, or temporal details[2] or attributes in the study of objects or systems in order to more
+    closely attend to other details of interest;it is also very similar in nature to the process of generalization;
+3.Agile software development
+    is an approach to software development under which requirements and solutions evolve through the collaborative effort of 
+    self-organizing and cross-functional teams and their customer(s)/end user(s). It advocates adaptive planning, evolutionary 
+    development, early delivery, and continual improvement, and it encourages rapid and flexible response to change.
+4.JSX
+    JavaScript eXtension, or more commonly JSX, is a React extension that allows us to write JavaScript that looks like HTML.    
